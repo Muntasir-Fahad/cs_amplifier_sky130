@@ -6,7 +6,7 @@
 **Topology :** Common Source Amplifier
 **Load :** Resistive Load
 
-**Target Midband Gain :** ≥ 3 V/V (≈ 9.5 dB)   [REALISTIC LOCKED TARGET]
+**Target Midband Gain :** ≥ 3 V/V (≈ 9.5 dB)
 **Target Bandwidth :** ≥ 10 GHz
 
 **Power Consumption :** As low as practical (within bias stability)
