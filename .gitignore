@@ -1,0 +1,24 @@
+# ngspice raw output (big files, regenerable)
+*.raw
+*.save
+
+# ngspice auto-save / temp
+*.spice~
+*_comp.out
+
+# Magic intermediate extraction files
+*.ext
+*.res.ext
+*.cap.ext
+*.nodes
+
+# ngspice log files (regenerated each run)
+*.sim
+*.out
+*.log
+
+# Editor / OS
+*.swp
+*~
+.DS_Store
+.vscode/
